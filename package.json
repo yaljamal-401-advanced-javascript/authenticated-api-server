@@ -1,0 +1,23 @@
+{
+  "name": "authenticated-api-server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yaljamal-401-advanced-javascript/authenticated-api-server.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yaljamal-401-advanced-javascript/authenticated-api-server/issues"
+  },
+  "homepage": "https://github.com/yaljamal-401-advanced-javascript/authenticated-api-server#readme"
+}
