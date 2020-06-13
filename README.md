@@ -1,11 +1,11 @@
 
 ## Project: lab-15
-
+Implementation full functionality , authorization , outhentication API server 
 ### Author: Yazan Aljamal
 
 ### Links and Resources
 
-* [submission PR]()
+* [submission PR](https://github.com/yaljamal-401-advanced-javascript/authenticated-api-server/pull/2)
 
 ### Documentaion
 
@@ -17,13 +17,9 @@
 
 > https://app.swaggerhub.com/apis/yaljamal/api-server/0.1
 
-## heruku link 
-
-> 
 
 ### Setup
 
-* install json-server (npm i json-server)
 * install nodmone , express , jest , supertest , supergoose, morgan
 
 ## the routes of the app 
